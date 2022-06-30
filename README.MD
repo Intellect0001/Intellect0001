@@ -1,6 +1,5 @@
 <p align="center">
- <img width="100px" src="https://icon-library.com/603669_lua.ico.html" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
+ <h2 align="center">Hey! I'm integer!</h2>
 </p>
 
 ### Hi I'm Mole <img width="25px" src="https://icon-library.com/images/moon-icon-png/moon-icon-png-4.jpg" alt="moon"/>
