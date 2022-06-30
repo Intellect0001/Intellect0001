@@ -19,5 +19,3 @@ I'm a 15 year old software engineer looking to expand the community within code.
 </p>
 
 
-<hr>
-<img src="https://tenor.com/bjCaf.gif"/>
