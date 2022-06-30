@@ -2,21 +2,22 @@
  <h2 align="center">Hey! I'm integer!</h2>
 </p>
 
-### Hi I'm Mole <img width="25px" src="https://icon-library.com/images/moon-icon-png/moon-icon-png-4.jpg" alt="moon"/>
-> Python Developer<br>
-> Lua Developer<br>
-> Front-end Developer<br>
+### I specialize in:
+> Lua 5.1<br>
+> C/C++<br>
+> JavaScript<br>
+> C#<br>
 
 <div>
  <p>
-I'm a mid-level Python, Lua, Front-End Developer. Capable of coding bots (specially Discord & etc) or any automation-related things.
+I'm a 15 year old software engineer looking to expand the community within code.
 </p>
 </div>
 
 <p align="center">
-<p>Discord:<br>MOLE#2165</p>
+<p>Discord:<br>integer#0001</p>
 </p>
 
 
 <hr>
-<img src="https://c.tenor.com/4R0C9EOQFz0AAAAd/beidou-genshin-impact.gif"/>
+<img src="https://tenor.com/view/tis100-sad-anime-girl-computer-coding-gif-17028925"/>
