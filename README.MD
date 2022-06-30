@@ -20,4 +20,4 @@ I'm a 15 year old software engineer looking to expand the community within code.
 
 
 <hr>
-<img src="https://tenor.com/view/tis100-sad-anime-girl-computer-coding-gif-17028925"/>
+<img src="https://c.tenor.com/view/tis100-sad-anime-girl-computer-coding-gif-17028925"/>
