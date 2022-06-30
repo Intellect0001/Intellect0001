@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://icon-library.com/images/moon-icon-png/moon-icon-png-4.jpg" align="center" alt="Github Readme Stats" />
+ <img width="100px" src="https://icon-library.com/603669_lua.ico.html" align="center" alt="Github Readme Stats" />
  <h2 align="center">Profile</h2>
 </p>
 
