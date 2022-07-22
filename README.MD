@@ -15,10 +15,20 @@
 
 ### Hey! I am 64bit.
 
-> Lua
-> C#
-> Python
-> JavaScript
-> CSS
-> HTML
-> Java (Learning)
+> Lua<br>
+> C#<br>
+> Python<br>
+> JavaScript<br>
+> CSS<br>
+> HTML<br>
+> Java (Learning)<br>
+
+<p align="center">
+ <h2 align="center">What I've accomplished</h2>
+</p>
+
+### Here is a list of items I have accomplished over my time as a developer.
+
+> Writing a full fledged CS:GO cheat.<br>
+> VR Physics in ROBLOX.<br>
+> & many more
