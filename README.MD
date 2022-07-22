@@ -8,3 +8,7 @@
      <img src="https://discord.c99.nl/widget/theme-4/855020556176457749.png" alt="64bit#0001 ( 855020556176457749 )"/>
        </a>
 </p>
+
+<p align="center">
+ <h2 align="center">About Me</h2>
+</p>
