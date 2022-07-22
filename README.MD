@@ -1,21 +1,10 @@
-<p align="center">
- <h2 align="center">Hey! I'm integer!</h2>
-</p>
 
-### I specialize in:
-> Lua 5.1<br>
-> C/C++<br>
-> JavaScript<br>
-> C#<br>
+<p align="center" ## Me <img src= "https://cdn.discordapp.com/emojis/894175687878017055.png?size=80" alt='stats' width="20px">
 
-<div>
- <p>
-I'm a 15 year old software engineer looking to expand the community within code.
-</p>
-</div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Intellect0001" alt="Profile Views" /> </p>  
 
 <p align="center">
-<p>Discord:<br>integer#0001</p>
+  <a href="https://discord.com/users/855020556176457749">
+     <img src="https://discord.c99.nl/widget/theme-4/456857241593708554.png" alt="64bit#0001 ( 855020556176457749 )"/>
+       </a>
 </p>
-
-
