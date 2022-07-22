@@ -12,3 +12,13 @@
 <p align="center">
  <h2 align="center">About Me</h2>
 </p>
+
+### Hey! I am 64bit.
+
+> Lua
+> C#
+> Python
+> JavaScript
+> CSS
+> HTML
+> Java (Learning)
